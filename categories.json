@@ -1,0 +1,16 @@
+[{
+        "category_name": "Diabetes",
+        "description": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high.",
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "category_name": "Metabolics",
+        "description": "Metabolics are the chemicals that make your body work. They are the chemicals that make your body work.",
+        "image": "https://picsum.photos/200"
+    },
+    {
+        "category_name": "MotherAndChild",
+        "description": "Nutritious products for mother and child.",
+        "image": "https://picsum.photos/200"
+    }
+]

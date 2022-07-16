@@ -1,0 +1,288 @@
+[{
+    "first_name": "Craig",
+    "last_name": "Grant",
+    "email": "saramahoney@example.com",
+    "phone": "812-177-2733x7027",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Angela",
+    "last_name": "Carter",
+    "email": "summersdavid@example.net",
+    "phone": "702-733-0303x0593",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Robert",
+    "last_name": "Davis",
+    "email": "milleradam@example.org",
+    "phone": "(397)083-6332x198",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Jesse",
+    "last_name": "Woodard",
+    "email": "harrelljamie@example.com",
+    "phone": "3442450718",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Nicole",
+    "last_name": "Hart",
+    "email": "heather93@example.org",
+    "phone": "(893)385-9571",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Kristin",
+    "last_name": "Phillips",
+    "email": "davisseth@example.net",
+    "phone": "201.160.4492",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Natalie",
+    "last_name": "Kaiser",
+    "email": "angela35@example.net",
+    "phone": "001-548-216-9614x7191",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Donald",
+    "last_name": "Hill",
+    "email": "leah37@example.com",
+    "phone": "785.198.0431x6603",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Michael",
+    "last_name": "Martinez",
+    "email": "adamsjoshua@example.com",
+    "phone": "001-347-639-9303x193",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Lori",
+    "last_name": "Martinez",
+    "email": "yharris@example.org",
+    "phone": "(805)101-1533x11450",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Tonya",
+    "last_name": "Scott",
+    "email": "calebmcclain@example.net",
+    "phone": "0456040805",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Alison",
+    "last_name": "Weaver",
+    "email": "emendoza@example.com",
+    "phone": "207.589.4676",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Kyle",
+    "last_name": "Hawkins",
+    "email": "mayspamela@example.com",
+    "phone": "654.688.5936",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Kenneth",
+    "last_name": "Olsen",
+    "email": "bondtaylor@example.org",
+    "phone": "998.451.3412",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Derrick",
+    "last_name": "Miller",
+    "email": "katherine20@example.net",
+    "phone": "001-336-324-6634x4260",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Angela",
+    "last_name": "Pearson",
+    "email": "barnettsheri@example.org",
+    "phone": "021-188-1765x0114",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Gordon",
+    "last_name": "Bradshaw",
+    "email": "lisajohnson@example.org",
+    "phone": "001-438-865-4335x370",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Melissa",
+    "last_name": "Jones",
+    "email": "ramosholly@example.com",
+    "phone": "001-998-123-2024x436",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Desiree",
+    "last_name": "Brown",
+    "email": "lwilliams@example.net",
+    "phone": "599.743.4127x742",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Peter",
+    "last_name": "Joseph",
+    "email": "singhlisa@example.org",
+    "phone": "496.597.2045x01467",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Teresa",
+    "last_name": "Vargas",
+    "email": "wyoung@example.net",
+    "phone": "(625)755-1241x323",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Kelly",
+    "last_name": "Cochran",
+    "email": "whitelarry@example.com",
+    "phone": "(458)263-8983",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Krista",
+    "last_name": "Carlson",
+    "email": "wanggary@example.com",
+    "phone": "(862)993-3350x56159",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Valerie",
+    "last_name": "Peterson",
+    "email": "thomas29@example.net",
+    "phone": "+1-015-263-3803x7765",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Jasmine",
+    "last_name": "Powell",
+    "email": "abishop@example.org",
+    "phone": "001-199-020-5157",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Tina",
+    "last_name": "Williams",
+    "email": "matthew56@example.com",
+    "phone": "+1-457-331-4396x758",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Russell",
+    "last_name": "Dodson",
+    "email": "carlsonsara@example.net",
+    "phone": "(456)577-7947",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Emily",
+    "last_name": "Turner",
+    "email": "wedwards@example.org",
+    "phone": "+1-630-239-8135x032",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Amber",
+    "last_name": "Keller",
+    "email": "ccastillo@example.org",
+    "phone": "292.902.9376",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Raymond",
+    "last_name": "Jones",
+    "email": "maureen39@example.com",
+    "phone": "662.788.2810x2983",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Melissa",
+    "last_name": "Bradford",
+    "email": "joseph04@example.com",
+    "phone": "810.671.7959x470",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Heather",
+    "last_name": "Smith",
+    "email": "denise75@example.com",
+    "phone": "8833204290",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Jason",
+    "last_name": "Massey",
+    "email": "davidblackwell@example.com",
+    "phone": "724.462.3550x02962",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Denise",
+    "last_name": "Norton",
+    "email": "xclark@example.com",
+    "phone": "(951)276-0748",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Brett",
+    "last_name": "Hoover",
+    "email": "eric35@example.com",
+    "phone": "959-296-1670x613",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Anna",
+    "last_name": "Henderson",
+    "email": "victoria78@example.com",
+    "phone": "(815)000-2397",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Stephanie",
+    "last_name": "Watkins",
+    "email": "devin67@example.org",
+    "phone": "+1-305-757-4532x61344",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Paige",
+    "last_name": "Carson",
+    "email": "emartinez@example.net",
+    "phone": "+1-141-665-7143x2942",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Michael",
+    "last_name": "Carter",
+    "email": "jasonsilva@example.net",
+    "phone": "8109244039",
+    "password": "helloworld",
+    "is_seller": true
+}, {
+    "first_name": "Cody",
+    "last_name": "Oliver",
+    "email": "vvargas@example.com",
+    "phone": "(102)128-9924x32068",
+    "password": "helloworld",
+    "is_seller": false
+}, {
+    "first_name": "Rajesh",
+    "last_name": "Williams",
+    "email": "rajesh@example.com",
+    "phone": "9876443246",
+    "password": "helloworld",
+    "is_seller": true
+}]
